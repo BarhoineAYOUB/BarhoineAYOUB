@@ -92,7 +92,7 @@ Built the official institutional platform for donation management, event booking
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=BahroineAYOUB&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BarhoineAYOUB&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
