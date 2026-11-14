@@ -49,7 +49,7 @@ Built the official institutional platform for donation management, event booking
 
 | Project | Stack | Links |
 |---|---|---|
-| **TripNest** — Cross-platform travel booking system | Spring Boot · PostgreSQL · React · Flutter | [🌐 Web](https://trip-nest-frontend-rho.vercel.app) · [📱 Mobile](https://tripnest-mobile.web.app) · [💻 Code](https://github.com/BahroineAYOUB) |
+| **TripNest** — Cross-platform travel booking system | Spring Boot · PostgreSQL · React · Flutter | [🌐 Web](https://trip-nest-frontend-rho.vercel.app) · [📱 Mobile](https://tripnest-mobile.web.app) · [💻 Code](https://github.com/BarhoineAYOUB) |
 | **AI Fitness & Nutrition Coach** — Smart meal scanner + workout plans | Flutter · Spring Boot · Python · PostgreSQL | Image recognition · Custom splits |
 | **Municipal Library System** — Document management + loan automation | Spring Boot · PostgreSQL · Thymeleaf · TailwindCSS | Full CRUD workflows |
 
